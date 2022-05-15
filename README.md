@@ -1,6 +1,6 @@
                                                            Hi there 👋, Hi, my Name is Kath
 #### I am a full stack developper
-   ![I am a full stack developper](https://user-images.githubusercontent.com/71993497/168455384-6bdd295c-178a-4049-ba38-e233fa784dca.gif)
+   ![I am a full stack developper](https://user-images.githubusercontent.com/71993497/168455384-6bdd295c-178a-4049-ba38-e233fa784dca.gif?style=centerme)
 
 I love starting with an idea and finish to a project fully fonctionnal.I run my own HomeLab at home it is pretty 'overkill' but I love that :)
 
